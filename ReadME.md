@@ -11,4 +11,4 @@ Unity엔진을 사용하여 독수리 오형제 더 슈팅 이라는 게임을 �
 ----------------------------------------------
 # 영상 및 기술서 
 * 동영상: https://youtu.be/VqVCIKabbK4
-* 기술서:
+* 기술서: https://docs.google.com/document/d/1cyoqPiKzq_Fj3A9lozl37XXzRwTsEMtZaD85bqVVFZ4/edit
